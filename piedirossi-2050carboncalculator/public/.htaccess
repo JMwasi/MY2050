@@ -1,0 +1,14 @@
+AuthName "not for everyone"
+AuthType Basic
+AuthUserFile "/home/production/mackaycarboncalculator/passwd/.htusers"
+require user admin BEIS BEISguest
+
+Options +FollowSymLinks
+RewriteEngine On
+
+# redirect everything (except requests for the API) to index.html for front-end controlled routing
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !^\/pathways
+RewriteCond %{REQUEST_URI} !^\/leverinfos
+RewriteRule ^.*$ ./index.html [NC]

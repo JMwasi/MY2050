@@ -1,0 +1,17 @@
+https://mackaycarboncalculator.beis.gov.uk
+https://mackaycarboncalculator.beis.gov.uk/overview/emissions-and-primary-energy-consumption
+https://mackaycarboncalculator.beis.gov.uk/overview/cumulative-emissions-and-final-energy-consumption
+https://mackaycarboncalculator.beis.gov.uk/transport/energy-and-emissions
+https://mackaycarboncalculator.beis.gov.uk/transport/demand-and-technology
+https://mackaycarboncalculator.beis.gov.uk/buildings/energy-and-emissions
+https://mackaycarboncalculator.beis.gov.uk/buildings/heat
+https://mackaycarboncalculator.beis.gov.uk/industry/energy-and-emissions
+https://mackaycarboncalculator.beis.gov.uk/gases/emissions-removal
+https://mackaycarboncalculator.beis.gov.uk/gases/gas-grid-hydrogen
+https://mackaycarboncalculator.beis.gov.uk/electricity/emissions-generation
+https://mackaycarboncalculator.beis.gov.uk/electricity/capacity-peak
+https://mackaycarboncalculator.beis.gov.uk/land-use/emissions-land
+https://mackaycarboncalculator.beis.gov.uk/land-use/bioenergy
+https://mackaycarboncalculator.beis.gov.uk/imports-map-flows/imports
+https://mackaycarboncalculator.beis.gov.uk/imports-map-flows/map
+https://mackaycarboncalculator.beis.gov.uk/imports-map-flows/flows
